@@ -45,7 +45,7 @@ h4,
 h5,
 h6 {
 	font-weight: 300;
-	letter-spacing: 1px;
+	letter-spacing: 0.4px;
 	font-family: "Raleway", Sans-serif;
 	color: #C3E0C6;
 }
@@ -302,10 +302,10 @@ header {
 	font-size: 40px;
 	line-height: 48px;
 	margin-bottom: 25px;
-	letter-spacing: -3px;
+	letter-spacing: 1px;
 	word-spacing: 10px;
-	color: #FFFFFF;
-	text-shadow: 1px 1px 1px rgb(0, 0, 0);
+	color: #C3E0C6;
+	text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 @media (min-width: 768px) {
