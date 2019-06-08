@@ -256,7 +256,7 @@ header {
 .intro-text {
 	padding-top: 100px;
 	padding-bottom: 50px;
-	position: relative;
+	position: absolute;
 	top: 50px;
     text-align: center;
 	transform: translateX(-50%);
