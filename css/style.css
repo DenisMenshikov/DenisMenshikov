@@ -146,20 +146,20 @@ section ul li:before {
 	margin-left: 10px;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
-	color: #fec503
+	color: #fec503;
 }
 .navbar-default .navbar-collapse {
-	border-color: rgba(255,255,255,.02)
+	border-color: #2B8D90;
 }
 .navbar-default .navbar-toggle {
-	background-color: #fed136;
-	border-color: #fed136
+	background-color: #2B8D90;
+	border-color: #2B8D90;
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #2B8D90
+	background-color: #2B8D90;
 }
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
-	background-color: #fed136
+	background-color: #fed136;
 }
 .navbar-default .nav li a {
 	font-family: "Open Sans",sans-serif;
@@ -187,7 +187,7 @@ section ul li:before {
 @media (min-width:768px) {
 	.navbar-default
 	{
-		background-color: rgba(255, 255, 255, 0.65);
+		background-color: #2B8D90;
 		padding: 5px 0;
 		-webkit-transition:padding .3s;
 		-moz-transition:padding .3s;
@@ -206,7 +206,7 @@ section ul li:before {
 		border-radius: 3px
 	}
 	.navbar-default.navbar-shrink {
-		background-color: #FFFFFF;
+		background-color: #2B8D90;
 		border-bottom: 1px solid #828282;
 		padding: 5px 0;
 	}
