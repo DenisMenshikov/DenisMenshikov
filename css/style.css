@@ -144,6 +144,7 @@ section ul li:before {
 	font-family: "Open Sans",sans-serif;
 	padding: 0px;
 	margin-left: 10px;
+	size: 100px;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
 	color: #fec503;
