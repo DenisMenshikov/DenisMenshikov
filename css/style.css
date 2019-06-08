@@ -224,7 +224,7 @@ header {
 	margin-top: 40px, 30px, 40px 30px;
 }
 .owl-slider .owl-controls {
-	position: absolute;
+	position: relative;
 	left: 0;
 	top: 38%;
 	width: 100%;	
