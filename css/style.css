@@ -248,8 +248,8 @@ header {
 }
 
 .owl-slider .owl-controls .owl-nav [class*=owl-]:hover {
-    background: #000;
-    color: #fff;
+    background: #1D5360;
+    color: #C3E0C6;
     text-decoration: none;
 }
 
@@ -283,7 +283,7 @@ header {
 	margin-bottom: 25px;
 	padding: 4px 20px;
 	font-family: "Open Sans",sans-serif;
-	font-size: 19px;
+	font-size: 30px;
 	color: #fff;
 	font-weight: 100;
 	line-height: 40px;
@@ -305,7 +305,7 @@ header {
 	letter-spacing: 1px;
 	word-spacing: 10px;
 	color: #C3E0C6;
-	text-shadow: 2px 2px 2px rgb(0, 0, 0);
+	text-shadow: 3px 3px 3px rgb(0, 0, 0);
 }
 
 @media (min-width: 768px) {
