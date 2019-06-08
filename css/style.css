@@ -283,7 +283,7 @@ header {
 	margin-bottom: 25px;
 	padding: 4px 20px;
 	font-family: "Open Sans",sans-serif;
-	font-size: 30px;
+	font-size: 80px;
 	color: #fff;
 	font-weight: 100;
 	line-height: 40px;
@@ -299,7 +299,7 @@ header {
 
 .intro-text .intro-heading {
 	font-weight: 900;
-	font-size: 40px;
+	font-size: 80px;
 	line-height: 48px;
 	margin-bottom: 25px;
 	letter-spacing: 1px;
