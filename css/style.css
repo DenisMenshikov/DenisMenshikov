@@ -1,9 +1,7 @@
 
 /*--------------------
-Color customizations
-change these colors to change overlays
-
-Colors:
+Color Theme:
+Dark - Light
 1: 1D5360
 2: 2B8D90
 3: 4FADA5
@@ -33,52 +31,3 @@ Colors:
 /*--------------------
 4.6. Extra
 --------------------*/
-/* Back to top button
----------------------------------- */
-#back-top {
-	position: fixed;
-	z-index: 1000;
-	bottom: 40px;
-	right: 50px;
-}
-#back-top a {
-	width: 60px;
-	height: 60px;
-	display: block;
-	text-align: center;
-	font: 11px/100% Arial, Helvetica, sans-serif;
-	text-transform: uppercase;
-	text-decoration: none;
-	color: #FFFFFF;
-	background: #A9A9B1;
-	/* background color transition */
-	-webkit-transition: 1s;
-	-moz-transition: 1s;
-	transition: 1s;
-}
-#back-top a:hover {
-	background: #fed136;
-}
-/* arrow icon (span tag) */
-#back-top i {
-	margin-top: 15px;
-	font-size: 28px;
-}
-
-@media only screen
-and (min-width : 320px)
-and (max-width : 480px) {
-#back-top {
-	position: fixed;
-	bottom: 10px;
-	right: 30px;
-}
-#back-top a {
-	width: 40px;
-	height: 40px;
-}
-#back-top i {
-	margin-top: 7px;
-	font-size: 20px;
-}
-}
