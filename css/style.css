@@ -134,7 +134,9 @@ section ul li:before {
 /*--------------------
 2. Navigation
 --------------------*/
-
+#icon-img {
+	size: 100px;
+}
 .navbar-default {
 	background-color: #2B8D90;
 	border-color: transparent
