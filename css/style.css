@@ -223,14 +223,6 @@ section ul li:before {
 header {
     margin-top: 80px;
 }
-
-.owl-slider-item {
-	position: relative;
-	background-color: #000;
-}
-.owl-slider-item img {
-	opacity: 0.7;
-}
 .owl-slider .owl-controls {
 	position: absolute;
 	left: 0;
