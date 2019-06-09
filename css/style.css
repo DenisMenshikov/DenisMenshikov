@@ -15,6 +15,9 @@ Dark - Light:
 /*-------------------
 2. Header
 -------------------*/
+.header-container {
+  background-color: #2B8D90;
+}
 /*-------------------
 3. Navbar-left
 -------------------*/
