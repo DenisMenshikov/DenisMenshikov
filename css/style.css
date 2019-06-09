@@ -17,6 +17,8 @@ Dark - Light:
 -------------------*/
 .header-container {
   background-color: #2B8D90;
+  position: absolute;
+  padding: 20px;
 }
 /*-------------------
 3. Navbar-left
