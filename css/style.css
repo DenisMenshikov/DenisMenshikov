@@ -170,6 +170,13 @@ h3 {
 	flex-wrap: wrap;
 	justify-content: center;
 }
+.cubing-container {
+	display: grid;
+	width: 50%;
+	margin: auto;
+	grid-template-columns: 1fr 2fr 1fr 2fr;
+	
+}
 .cube-image {
 	width: 200px;
 	height: 200px;
